@@ -5,6 +5,6 @@ import (
 	"testing"
 )
 
-func TestSortFn(t *testing.T) {
+func TestSort(t *testing.T) {
 	sort.TestSortFn(t, Sort)
 }
